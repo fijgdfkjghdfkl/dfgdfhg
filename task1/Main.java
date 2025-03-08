@@ -2,8 +2,6 @@
 /**
  * Клас для демонстрації простої функції множення двох чисел.
  * 
- * @author Replit User
- * @version 1.0
  */
 public class Main {
     
